@@ -1,0 +1,11 @@
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\bin\Debug\netcoreapp3.0\DFromSOLID.exe
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\bin\Debug\netcoreapp3.0\DFromSOLID.deps.json
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\bin\Debug\netcoreapp3.0\DFromSOLID.runtimeconfig.json
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\bin\Debug\netcoreapp3.0\DFromSOLID.runtimeconfig.dev.json
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\bin\Debug\netcoreapp3.0\DFromSOLID.dll
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\bin\Debug\netcoreapp3.0\DFromSOLID.pdb
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\obj\Debug\netcoreapp3.0\DFromSOLID.csprojAssemblyReference.cache
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\obj\Debug\netcoreapp3.0\DFromSOLID.AssemblyInfoInputs.cache
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\obj\Debug\netcoreapp3.0\DFromSOLID.AssemblyInfo.cs
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\obj\Debug\netcoreapp3.0\DFromSOLID.dll
+D:\Meine Projekte\SOLIDProjekte\DFromSOLID\obj\Debug\netcoreapp3.0\DFromSOLID.pdb
